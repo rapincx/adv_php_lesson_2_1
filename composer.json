@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/symfony": "2.8.28",
+        "symfony/finder": "^3.3"
+    }
+}
